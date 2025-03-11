@@ -4,4 +4,4 @@ Questo progetto è un esempio di come creare un circuito quantistico con IBM qua
 
 
 Vedi altri miei progetti relativi a quantum computing:
-- [Quantum](https://Baddy2002.github.io/BernsteinVaziraniCircuit) - Bernstein Vazirani Circuit problem.
+- [Bernstein Vazirani](https://Baddy2002.github.io/BernsteinVaziraniCircuit) - Bernstein Vazirani Circuit problem.
